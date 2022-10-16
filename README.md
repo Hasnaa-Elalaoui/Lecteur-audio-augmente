@@ -26,4 +26,5 @@ Plusieurs sources ont été utilisées dans la réalisation de ce projet notamme
 - Visualisation audio : https://jsbin.com/qezevew/edit?html,css,js,output
 - Background vidéo : https://codepen.io/hubspot/pen/abJXWdE
 - Tp web components de Dorian Chapoulie : https://github.com/Dorian-Chapoulie/tp_webcomponents
+
 Ainsi qu'une entraide durant la réalisation de ce projet avec Thomas DELMARE. 
