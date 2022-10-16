@@ -16,3 +16,14 @@ Enfin, des graphes de visualisation s'activent au démarrage de la musique, vari
 
 ## Programmation
 Ce projet est entièrement réalisé en HTML/CSS/JavaScript conformément aux attentes et utilise principalement la librairie **webaudio-controls.js**
+
+## Sources
+
+Plusieurs sources ont été utilisées dans la réalisation de ce projet notamment : 
+- Visualisation de fréquences : https://jsbin.com/wenuvub/edit?js,output
+- Stabilisateur de fréquences : https://jsbin.com/jafoboh/edit?js,console,output
+- Balance audio : https://jsbin.com/jarimu/edit?html,js,output
+- Visualisation audio : https://jsbin.com/qezevew/edit?html,css,js,output
+- Background vidéo : https://codepen.io/hubspot/pen/abJXWdE
+- Tp web components de Dorian Chapoulie : https://github.com/Dorian-Chapoulie/tp_webcomponents
+Ainsi qu'une entraide durant la réalisation de ce projet avec Thomas DELMARE. 
